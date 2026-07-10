@@ -6,15 +6,15 @@ Passionate about Mobile Development, AI and Computer Vision
 
 ---
 
-## 🚀 About me
+## 🚀 About Me
 
-- 📱 Mobile Software Engineer with **3+ years of experience**
-- 🍎 Specialized in **iOS Development (Swift / UIKit / SwiftUI)**
-- 💙 Building cross-platform applications with **Flutter**
-- 🤖 Exploring **AI, LLM, RAG Chatbots and Computer Vision**
-- 🐍 Developing backend services with **Python & FastAPI**
-- 🌱 Currently learning **React, Next.js, Docker and Cloud Technologies**
-- 🎯 Goal: Become a **Senior Software Engineer** and build impactful AI-powered products
+- 💼 Software Engineer with **5+ years of experience** in Mobile Development
+- 🍎 Specialized in **iOS Development** using Swift, UIKit and SwiftUI
+- 📱 Experienced in building cross-platform applications with Flutter
+- 🤖 Passionate about Artificial Intelligence, LLMs, RAG and Computer Vision
+- ⚙️ Developing scalable backend services with Python, FastAPI and PostgreSQL
+- 🌱 Continuously learning React, Next.js, Docker and Cloud technologies
+- 🎯 Aspiring to become a Senior Software Engineer focused on AI-powered products
 
 ---
 
