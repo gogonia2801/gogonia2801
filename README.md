@@ -48,7 +48,7 @@ Passionate about Mobile Development, AI and Computer Vision
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 
 ### AI / Computer Vision
 
@@ -61,11 +61,11 @@ Passionate about Mobile Development, AI and Computer Vision
 
 ### DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,nginx,git" />
+<img src="https://skillicons.dev/icons?i=docker,gitlab,github,aws,nginx,git&perline=3" />
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,figma,postman,obsidian,ps" />
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman,obsidian,ps&perline=3" />
 
 ---
 
@@ -98,9 +98,6 @@ Passionate about Mobile Development, AI and Computer Vision
 - Software Architecture
 - UI/UX
 - Product Development
-
----
-
 
 ---
 
