@@ -18,6 +18,16 @@ Passionate about Mobile Development, AI and Computer Vision
 
 ---
 
+## ⚡ Fun Facts
+
+- 📱 I enjoy building beautiful mobile applications.
+- 🤖 I'm passionate about AI, Computer Vision and LLM applications.
+- ✍️ I use **Obsidian** as my second brain for note-taking and knowledge management.
+- 🎨 I occasionally use **Adobe Photoshop** for UI assets and image editing.
+- ☕ Always learning something new.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -55,7 +65,7 @@ Passionate about Mobile Development, AI and Computer Vision
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,figma,postman,obsidian,ps" />
 
 ---
 
@@ -91,8 +101,21 @@ Passionate about Mobile Development, AI and Computer Vision
 
 ---
 
+
+---
+
 ## 📫 Connect with me
 
-- 🌐 Portfolio: Coming Soon
-- 💼 LinkedIn: Coming Soon
-- 📧 Email: Coming Soon
+<p align="left">
+  <a href="mailto:nguyen.hoang.giang.280196@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/giang-nguyễn-hoàng-268368288">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+- 📧 **Email:** nguyen.hoang.giang.280196@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/giang-nguyễn-hoàng-268368288
+
